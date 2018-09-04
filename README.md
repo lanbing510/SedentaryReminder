@@ -52,4 +52,5 @@
 - 考虑到多数人使用的是Windows操作系统，Mac笔记本好像有款类似软件，所以没有进行其他系统平台的编译
 - 考虑到计算效率和实用性，并未加入识别网络
 - 后期有时间在做坐姿检测，提醒规范坐姿
+- 后期可通过[GitHub](https://github.com/lanbing510/SedentaryReminder)和本人[博客](http://lanbing510.info)获取更新
 - 祝大家身体健康！
