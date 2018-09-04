@@ -1,3 +1,7 @@
+
+备用下载地址：[百度网盘](https://pan.baidu.com/s/12yz_gXwqWjgectvzxQlNjA)。
+
+
 #### 简介
 <hr>
 
@@ -40,6 +44,8 @@
 
 #### 下载及问题反馈
 <hr>
+
+备用下载地址：[百度网盘](https://pan.baidu.com/s/12yz_gXwqWjgectvzxQlNjA)。
 
 由于没有太多不同的计算机，本人只在四台不同计算机上进行了移植兼容性测试，有问题和反馈可在Issue留言。
 
