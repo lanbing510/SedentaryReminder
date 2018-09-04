@@ -17,14 +17,25 @@
 #### 软件截图
 <hr>
 
-软件截图
-![Aaron Swartz](https://github.com/lanbing510/SedentaryReminder/raw/master/screenshots/sedentary-reminder-1.png)
 
-软件截图
-![Aaron Swartz](https://github.com/lanbing510/SedentaryReminder/raw/master/screenshots/sedentary-reminder-2.png)
 
-软件截图
-![Aaron Swartz](https://github.com/lanbing510/SedentaryReminder/raw/master/screenshots/sedentary-reminder-3.jpg)
+<table align ="center">
+<caption align="bottom">软件截图</caption>
+<tr><td><img src="https://github.com/lanbing510/SedentaryReminder/raw/master/screenshots/sedentary-reminder-1.png"  width="600px" /></td></tr>
+</table>
+
+
+<table align ="center">
+<caption align="bottom">设置对话框截图</caption>
+<tr><td><img src="https://github.com/lanbing510/SedentaryReminder/raw/master/screenshots/sedentary-reminder-2.pngg"  width="600px"/></td></tr>
+</table>
+
+
+<table align ="center">
+<caption align="bottom">屏幕遮罩效果图</caption>
+<tr><td><img src="https://github.com/lanbing510/SedentaryReminder/raw/master/screenshots/sedentary-reminder-3.jpg"  width="600px"/></td></tr>
+</table>
+
 
 
 
