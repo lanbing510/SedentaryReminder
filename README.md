@@ -18,7 +18,6 @@
 <hr>
 
 
-
 <table align ="center">
 <caption align="bottom">软件截图</caption>
 <tr><td><img src="https://github.com/lanbing510/SedentaryReminder/raw/master/screenshots/sedentary-reminder-1.png"  width="600px" /></td></tr>
@@ -27,7 +26,7 @@
 
 <table align ="center">
 <caption align="bottom">设置对话框截图</caption>
-<tr><td><img src="https://github.com/lanbing510/SedentaryReminder/raw/master/screenshots/sedentary-reminder-2.pngg"  width="600px"/></td></tr>
+<tr><td><img src="https://github.com/lanbing510/SedentaryReminder/raw/master/screenshots/sedentary-reminder-2.png"  width="600px"/></td></tr>
 </table>
 
 
